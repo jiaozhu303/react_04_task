@@ -35,3 +35,8 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# IDEA
+.iml
+.idea/
+/react_04_task.iml
