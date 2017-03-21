@@ -20,14 +20,14 @@ footer {
     height: 7%;
     width: 100%;
 }
-ul {
+footer > ul {
     margin: 0;
     padding: 0;
 }
-ul > li {
+footer > ul > li {
     padding: 0;
     padding-top: 6%;
-    border-top: solid 1px ;
+    border-top: solid 1px black;
     margin: 0;
     height: 7%;
     line-height: 7%;
@@ -36,6 +36,6 @@ ul > li {
     width: 50%;
     float: left;
     list-style: none;
-
+    color: blue;
     font-size: 22px;
 }
