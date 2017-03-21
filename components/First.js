@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 
-export default class First extends Component {
-    render(){
-        return (<h1>首页!</h1>);
-    }
+const First = (props) => {
+    return (<h1>首页!</h1>);
 }
+export default First;
