@@ -8,6 +8,7 @@ import App from './components/App';
 import './components/indexStyle.css'
 
 
+
 const router = (
     <Router history={browserHistory}>
         <Route path="/" components={App}>
